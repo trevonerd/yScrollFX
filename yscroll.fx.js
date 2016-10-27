@@ -22,8 +22,7 @@
  * - first release
  *
  *
- * - now you can grab the action from another element using the data attribute: "data-tracking-action-from-id"*
- **** Description:
+  **** Description:
  * What does this plugin?
  * - It adds a css class when an element is in the viewport when user scrolls the page. Very usefull if you need some animated intro effect on the visible elements.
  *
