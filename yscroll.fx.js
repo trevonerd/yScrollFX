@@ -13,7 +13,7 @@
  * Date: 27/10/2016
  * Git: https://github.com/trevonerd/yScrollFX
  * ---
- * Author: Marco Trevisani <marco.trevisani@yoox.com>
+ * Author: Marco Trevisani <marco.trevisani81@gmail.com>
  * ---
  * Further changes, comments:
  * --- v1.0.1:
